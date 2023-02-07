@@ -7,5 +7,5 @@
 ```shell
 docker compose up
 ```
-3. In your machine go to `http://localhost:5000/swagger/index.html` and press try and execute on each dispatch.
+3. In your machine go to `http://localhost:5000/swagger/index.html` and press try and execute buttons in each dispatch.
 4. Go to your Logz.io account, into tracing and search for the 2 services: `api` and `service`.
