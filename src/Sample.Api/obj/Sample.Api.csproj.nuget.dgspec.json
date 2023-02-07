@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Api/Sample.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Api/Sample.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Api/Sample.Api.csproj",
+        "projectName": "Sample.Api",
+        "projectPath": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Api/Sample.Api.csproj",
+        "packagesPath": "/Users/shiranavidov/.nuget/packages/",
+        "outputPath": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shiranavidov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/Sample.Contracts.csproj": {
+                "projectPath": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/Sample.Contracts.csproj"
+              },
+              "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/Sample.Shared.csproj": {
+                "projectPath": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/Sample.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.0.0-rc4, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.0-rc9, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/shiranavidov/.dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/Sample.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/Sample.Contracts.csproj",
+        "projectName": "Sample.Contracts",
+        "projectPath": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/Sample.Contracts.csproj",
+        "packagesPath": "/Users/shiranavidov/.nuget/packages/",
+        "outputPath": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shiranavidov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.3-develop.472, )"
+            },
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/shiranavidov/.dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/Sample.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/Sample.Shared.csproj",
+        "projectName": "Sample.Shared",
+        "projectPath": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/Sample.Shared.csproj",
+        "packagesPath": "/Users/shiranavidov/.nuget/packages/",
+        "outputPath": "/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shiranavidov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.3-develop.472, )"
+            },
+            "OpenTelemetry.Exporter.Jaeger": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.0.0-rc9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/shiranavidov/.dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

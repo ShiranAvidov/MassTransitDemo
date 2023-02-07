@@ -1,0 +1,12 @@
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/bin/Debug/net5.0/Sample.Shared.deps.json
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/bin/Debug/net5.0/Sample.Shared.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/bin/Debug/net5.0/ref/Sample.Shared.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/bin/Debug/net5.0/Sample.Shared.pdb
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/obj/Debug/net5.0/Sample.Shared.csprojAssemblyReference.cache
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/obj/Debug/net5.0/Sample.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/obj/Debug/net5.0/Sample.Shared.AssemblyInfoInputs.cache
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/obj/Debug/net5.0/Sample.Shared.AssemblyInfo.cs
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/obj/Debug/net5.0/Sample.Shared.csproj.CoreCompileInputs.cache
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/obj/Debug/net5.0/Sample.Shared.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/obj/Debug/net5.0/ref/Sample.Shared.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Shared/obj/Debug/net5.0/Sample.Shared.pdb

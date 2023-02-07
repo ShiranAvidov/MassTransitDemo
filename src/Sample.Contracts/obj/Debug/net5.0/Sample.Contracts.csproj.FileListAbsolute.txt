@@ -1,0 +1,12 @@
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/bin/Debug/net5.0/Sample.Contracts.deps.json
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/bin/Debug/net5.0/Sample.Contracts.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/bin/Debug/net5.0/ref/Sample.Contracts.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/bin/Debug/net5.0/Sample.Contracts.pdb
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/obj/Debug/net5.0/Sample.Contracts.csprojAssemblyReference.cache
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/obj/Debug/net5.0/Sample.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/obj/Debug/net5.0/Sample.Contracts.AssemblyInfoInputs.cache
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/obj/Debug/net5.0/Sample.Contracts.AssemblyInfo.cs
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/obj/Debug/net5.0/Sample.Contracts.csproj.CoreCompileInputs.cache
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/obj/Debug/net5.0/Sample.Contracts.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/obj/Debug/net5.0/ref/Sample.Contracts.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Contracts/obj/Debug/net5.0/Sample.Contracts.pdb

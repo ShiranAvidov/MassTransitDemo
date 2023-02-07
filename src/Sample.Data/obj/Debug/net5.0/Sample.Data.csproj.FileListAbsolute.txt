@@ -1,0 +1,17 @@
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/bin/Debug/net5.0/Sample.Data.deps.json
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/bin/Debug/net5.0/Sample.Data.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/bin/Debug/net5.0/ref/Sample.Data.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/bin/Debug/net5.0/Sample.Data.pdb
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/bin/Debug/net5.0/Sample.Components.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/bin/Debug/net5.0/Sample.Contracts.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/bin/Debug/net5.0/Sample.Components.pdb
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/bin/Debug/net5.0/Sample.Contracts.pdb
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/obj/Debug/net5.0/Sample.Data.csprojAssemblyReference.cache
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/obj/Debug/net5.0/Sample.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/obj/Debug/net5.0/Sample.Data.AssemblyInfoInputs.cache
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/obj/Debug/net5.0/Sample.Data.AssemblyInfo.cs
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/obj/Debug/net5.0/Sample.Data.csproj.CoreCompileInputs.cache
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/obj/Debug/net5.0/Sample.Data.csproj.CopyComplete
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/obj/Debug/net5.0/Sample.Data.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/obj/Debug/net5.0/ref/Sample.Data.dll
+/Users/shiranavidov/Desktop/tasks/Sample-Dispatcher/src/Sample.Data/obj/Debug/net5.0/Sample.Data.pdb

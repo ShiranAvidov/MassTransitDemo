@@ -1,0 +1,26 @@
+# @name dispatchRequest
+
+POST https://localhost:5001/DispatchRequest
+Content-Type: application/json
+
+{
+  "transactionId": "{{$uuid}}",
+  "routingKey": "{{$uuid}}",
+  "body": "Ping"
+}
+
+> {%
+  client.global.set("transactionId", response.body.transactionId)
+%}
+
+###
+
+# @name dispatchResponse 
+
+POST http://localhost:5000/DispatchResponse
+Content-Type: application/json
+
+{
+  "transactionId": "{{transactionId}}",
+  "body": "Pong"
+}
